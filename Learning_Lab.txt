@@ -10,4 +10,6 @@ RED
 PURPLE
 YELLOW
 !
+VIOLET
+!
 List of colors
