@@ -1,0 +1,13 @@
+This is My first Git Lab site
+!
+BLUE
+BROWN
+GRAY
+GREEN
+ORANGE
+PINK
+RED
+PURPLE
+YELLOW
+!
+List of colors
